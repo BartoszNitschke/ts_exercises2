@@ -1,4 +1,5 @@
 import { expectTypeOf, test } from "vitest";
+
 import { Kontrola, kontrola1, kontrola2 } from "../tasks/task1.js";
 
 test("Zad 1 - typ kontroli", ()=>{
